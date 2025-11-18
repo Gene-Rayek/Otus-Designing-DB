@@ -230,3 +230,6 @@ ALTER TABLE "entities" ADD FOREIGN KEY ("ref_id") REFERENCES "customers" ("id");
 ALTER TABLE "entities" ADD FOREIGN KEY ("ref_id") REFERENCES "suppliers" ("id");
 
 ALTER TABLE "entities" ADD FOREIGN KEY ("ref_id") REFERENCES "manufacturers" ("id");
+
+
+
